@@ -1,3 +1,8 @@
+/**
+ * Generate a chritmas tree into console
+ * Only height into params
+ * @param {*} height 
+ */
 function makeChristmasTree(height)
 {
     var star = "*";
